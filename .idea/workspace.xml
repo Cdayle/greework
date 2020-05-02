@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bc04482-b0be-427e-b8a9-2d8716732c7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/main/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/main/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="9bc04482-b0be-427e-b8a9-2d8716732c7a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,8 +102,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/main/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="198">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -251,12 +249,12 @@
       <workItem from="1586935423404" duration="111000" />
       <workItem from="1586998086951" duration="4485000" />
       <workItem from="1587459211885" duration="10735000" />
-      <workItem from="1588384564265" duration="6096000" />
+      <workItem from="1588384564265" duration="6557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44323000" />
+    <option name="totallyTimeSpent" value="44784000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,8 +438,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/main/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        <state relative-caret-position="198">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
